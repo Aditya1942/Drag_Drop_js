@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+simple drag and drop with vanilla javascript
+
+drag item and dropon table and prperties of item like price and quantity add in table
+
+## Screenshots
+
+![Here is the Image](./ss.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
