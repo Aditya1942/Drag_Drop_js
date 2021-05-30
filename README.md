@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 simple drag and drop with vanilla javascript
 
-drag item and dropon table and prperties of item like price and quantity add in table
+drag item and drop on table and properties of item like price and quantity add in table
 
 ## Screenshots
 
