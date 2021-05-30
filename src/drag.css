@@ -1,0 +1,9 @@
+.QuoteItem {
+  width: 200px;
+  border: 1px solid grey;
+  background-color: lightblue;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+}
